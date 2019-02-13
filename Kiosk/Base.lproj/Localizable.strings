@@ -1,0 +1,75 @@
+/* 
+  Localizable.strings
+  Kiosk
+
+  Created by Waseel ASP Ltd. on 4/30/17.
+  Copyright © 2017 Waseel ASP Ltd. All rights reserved.
+*/
+
+/* Class = "UIButton"; normalTitle = "تبديل اللغة"; ObjectID = "RNL-Vy-tsy"; */
+"اللغة العربية" = "اللغة العربية";
+
+
+/* Class = "UILabel"; text = "Check status of"; ObjectID = "OqN-R5-IhU"; */
+"Check status of" = "Check status of";
+
+/* Class = "UILabel"; text = "Medical Insurance and\nApprovals"; ObjectID = "OED-Q1-5Yp"; */
+"Medical Insurance and\nApprovals" = "Medical Insurance and\nApprovals";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "KOP-gf-MM5"; */
+"OR" = "OR";
+
+/* Class = "UIButton"; normalTitle = "Enter Insurance Card"; ObjectID = "pVD-Cx-CnG"; */
+"Enter Insurance Card" = "Enter Insurance Card";
+
+/* Class = "UIButton"; normalTitle = " Press to Scan QR "; ObjectID = "K4Z-Zv-tmi"; */
+"Press to Scan QR" = "Press to Scan QR";
+
+"Select your Health Insurance\n" = "Select your Health Insurance\n";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Ow5-iT-zYQ"; */
+"Back" = "Back";
+
+/* Class = "UITextField"; placeholder = "Touch here to type"; ObjectID = "ICQ-sR-X8j"; */
+"Touch here to type" = "Touch here to type";
+
+"Provide the information given on your Health Insurance Card" = "Provide the information given on your Health Insurance Card";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "cqL-Jp-Irp"; */
+"Cancel" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Check Details"; ObjectID = "kiT-eA-SEJ"; */
+"Check Details" = "Check Details";
+
+/* Class = "UIButton"; normalTitle = "تغيير الشركة"; ObjectID = "Uvq-Xq-uyE"; */
+"Change" = "Change";
+
+/* Class = "UILabel"; text = "المعلومات الخاصة بك."; ObjectID = "GTc-qW-0Hv"; */
+"Your given infomration" = "Your given infomration";
+
+/* Class = "UILabel"; text = "Requesting . . ."; ObjectID = "nRB-kC-NCw"; */
+"Requesting . . ." = "Requesting . . .";
+
+/* Class = "UILabel"; text = "STATUS"; ObjectID = "qK9-xN-l2U"; */
+"STATUS" = "STATUS";
+
+/* Class = "UILabel"; text = "APPROVAL"; ObjectID = "ipJ-UL-Ckf"; */
+"APPROVAL" = "APPROVAL";
+
+/* Class = "UIButton"; normalTitle = "Print"; ObjectID = "uN3-Jd-m40"; */
+"Print" = "Print";
+
+/* Class = "UILabel"; text = "Bring QR code infront of screen"; ObjectID = "tpp-aj-Wgj"; */
+"Bring QR code infront of screen" = "Bring QR code infront of screen";
+
+/* Class = "UILabel"; text = "Transaction time up!"; ObjectID = "OdK-ve-Yyx"; */
+"Transaction time up!" = "Transaction time up!";
+
+/* Class = "UILabel"; text = "Do you want more time?"; ObjectID = "KYo-W4-6jb"; */
+"Do you want more time?" = "Do you want more time?";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "ES0-Gf-pEc"; */
+"Yes" = "Yes";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "quK-Q6-ndw"; */
+"No" = "No";

@@ -1,0 +1,228 @@
+
+/* Class = "UILabel"; text = "Mar 29, 2017"; ObjectID = "21q-W9-Iqg"; */
+"21q-W9-Iqg.text" = "Mar 29, 2017";
+
+/* Class = "UILabel"; text = "OLAYA MEDICAL HOSPITAL"; ObjectID = "2d7-mv-Ich"; */
+"2d7-mv-Ich.text" = "OLAYA MEDICAL HOSPITAL";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "3vE-oc-uwJ"; */
+"3vE-oc-uwJ.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "UNDERPROCESSING"; ObjectID = "4p2-ZI-xbr"; */
+"4p2-ZI-xbr.text" = "UNDERPROCESSING";
+
+/* Class = "UILabel"; text = "المعلومات الخاصة بك."; ObjectID = "7Fd-Pp-Smn"; */
+"7Fd-Pp-Smn.text" = "المعلومات الخاصة بك.";
+
+/* Class = "UILabel"; text = "00226539040700100000"; ObjectID = "7Kq-Xq-WNh"; */
+"7Kq-Xq-WNh.text" = "00226539040700100000";
+
+/* Class = "UILabel"; text = "How do you want to inquire?"; ObjectID = "8nv-0A-ace"; */
+"8nv-0A-ace.text" = "How do you want to inquire?";
+
+/* Class = "UILabel"; text = "111111111111111111111108907907070"; ObjectID = "Bul-ry-D7Q"; */
+"Bul-ry-D7Q.text" = "111111111111111111111108907907070";
+
+/* Class = "UILabel"; text = "حدد شركة التأمين الصحي الخاصة بك."; ObjectID = "CBW-Rj-him"; */
+"CBW-Rj-him.text" = "حدد شركة التأمين الصحي الخاصة بك.";
+
+/* Class = "UILabel"; text = "OLAYA MEDICAL HOSPITAL"; ObjectID = "CQy-T9-bUj"; */
+"CQy-T9-bUj.text" = "OLAYA MEDICAL HOSPITAL";
+
+/* Class = "UILabel"; text = "UNDERPROCESSING"; ObjectID = "Cw5-k1-k5f"; */
+"Cw5-k1-k5f.text" = "UNDERPROCESSING";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "ES0-Gf-pEc"; */
+"ES0-Gf-pEc.normalTitle" = "Yes";
+
+/* Class = "UILabel"; text = "Policy Number"; ObjectID = "Ewf-iY-yan"; */
+"Ewf-iY-yan.text" = "Policy Number";
+
+/* Class = "UILabel"; text = "المعلومات الخاصة بك."; ObjectID = "GTc-qW-0Hv"; */
+"GTc-qW-0Hv.text" = "المعلومات الخاصة بك.";
+
+/* Class = "UIButton"; normalTitle = "Ok"; ObjectID = "Gs3-DN-YzK"; */
+"Gs3-DN-YzK.normalTitle" = "Ok";
+
+/* Class = "UITextField"; placeholder = "Touch here to type"; ObjectID = "ICQ-sR-X8j"; */
+"ICQ-sR-X8j.placeholder" = "Touch here to type";
+
+/* Class = "UILabel"; text = "XY786786BDCF"; ObjectID = "JrI-qh-Im9"; */
+"JrI-qh-Im9.text" = "XY786786BDCF";
+
+/* Class = "UIButton"; normalTitle = " Press to Scan QR "; ObjectID = "K4Z-Zv-tmi"; */
+"K4Z-Zv-tmi.normalTitle" = "Press to Scan QR";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "KOP-gf-MM5"; */
+"KOP-gf-MM5.text" = "OR";
+
+/* Class = "UILabel"; text = "Do you want more time?"; ObjectID = "KYo-W4-6jb"; */
+"KYo-W4-6jb.text" = "Do you want more time?";
+
+/* Class = "UILabel"; text = "OLAYA MEDICAL HOSPITAL"; ObjectID = "Kh8-hN-tjw"; */
+"Kh8-hN-tjw.text" = "OLAYA MEDICAL HOSPITAL";
+
+/* Class = "UITextField"; placeholder = "Touch here to type"; ObjectID = "KhU-mh-Nug"; */
+"KhU-mh-Nug.placeholder" = "Touch here to type";
+
+/* Class = "UILabel"; text = "ID Number"; ObjectID = "MAg-8Q-4BV"; */
+"MAg-8Q-4BV.text" = "ID Number";
+
+/* Class = "UILabel"; text = "OLAYA MEDICAL HOSPITAL"; ObjectID = "MU5-wE-ahT"; */
+"MU5-wE-ahT.text" = "OLAYA MEDICAL HOSPITAL";
+
+/* Class = "UILabel"; text = "20 %"; ObjectID = "MZ5-Ey-4NE"; */
+"MZ5-Ey-4NE.text" = "20 %";
+
+/* Class = "UITextField"; placeholder = "Touch here to type"; ObjectID = "Nal-HS-GFz"; */
+"Nal-HS-GFz.placeholder" = "Touch here to type";
+
+/* Class = "UILabel"; text = "Medical Insurance and\nApprovals"; ObjectID = "OED-Q1-5Yp"; */
+"OED-Q1-5Yp.text" = "Medical Insurance and\nApprovals";
+
+/* Class = "UILabel"; text = "Transaction time up!"; ObjectID = "OdK-ve-Yyx"; */
+"OdK-ve-Yyx.text" = "Transaction time up!";
+
+/* Class = "UILabel"; text = "Check status of"; ObjectID = "OqN-R5-IhU"; */
+"OqN-R5-IhU.text" = "Check status of";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Ow5-iT-zYQ"; */
+"Ow5-iT-zYQ.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Policy Number"; ObjectID = "P59-Sl-QhW"; */
+"P59-Sl-QhW.text" = "Policy Number";
+
+/* Class = "UILabel"; text = "APPROVAL INQUIRY"; ObjectID = "Pai-Rr-hg3"; */
+"Pai-Rr-hg3.text" = "APPROVAL INQUIRY";
+
+/* Class = "UILabel"; text = "90707070970987098709809080980980"; ObjectID = "PsL-kU-33p"; */
+"PsL-kU-33p.text" = "90707070970987098709809080980980";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "QeH-DJ-Mnf"; */
+"QeH-DJ-Mnf.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Policy Number"; ObjectID = "Qzv-fO-ZSH"; */
+"Qzv-fO-ZSH.text" = "Policy Number";
+
+/* Class = "UIButton"; normalTitle = "تبديل اللغة"; ObjectID = "RNL-Vy-tsy"; */
+"RNL-Vy-tsy.normalTitle" = "اللغة العربية";
+
+/* Class = "UILabel"; text = "Mar\n29"; ObjectID = "RSF-Qh-EVa"; */
+"RSF-Qh-EVa.text" = "Mar\n29";
+
+/* Class = "UIButton"; normalTitle = "Change"; ObjectID = "RUB-J2-DeT"; */
+"RUB-J2-DeT.normalTitle" = "Change";
+
+/* Class = "UIButton"; normalTitle = "تغيير الشركة"; ObjectID = "Uvq-Xq-uyE"; */
+"Uvq-Xq-uyE.normalTitle" = "تغيير الشركة";
+
+/* Class = "UIButton"; normalTitle = "Change\nCompany"; ObjectID = "VmW-LW-1c1"; */
+"VmW-LW-1c1.normalTitle" = "Change\nCompany";
+
+/* Class = "UILabel"; text = "تقديم المعلومات الواردة على بطاقة\nالتأمين الصحي الخاصة بك."; ObjectID = "VyZ-CC-Qvx"; */
+"VyZ-CC-Qvx.text" = "تقديم المعلومات الواردة على بطاقة\nالتأمين الصحي الخاصة بك.";
+
+/* Class = "UIButton"; normalTitle = "By Insurance Card"; ObjectID = "Xjc-60-lAd"; */
+"Xjc-60-lAd.normalTitle" = "By Insurance Card";
+
+/* Class = "UILabel"; text = "B01/16/08/0016xxxx / 5798xxx"; ObjectID = "cIn-iv-4tf"; */
+"cIn-iv-4tf.text" = "B01/16/08/0016xxxx / 5798xxx";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "cqL-Jp-Irp"; */
+"cqL-Jp-Irp.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "fJQ-Fg-fmk"; */
+"fJQ-Fg-fmk.normalTitle" = "Retry";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "fRQ-Tt-3ay"; */
+"fRQ-Tt-3ay.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "UNDERPROCESSING"; ObjectID = "fm8-VW-lsY"; */
+"fm8-VW-lsY.text" = "UNDERPROCESSING";
+
+/* Class = "UIButton"; normalTitle = "Change"; ObjectID = "i8c-uR-xnd"; */
+"i8c-uR-xnd.normalTitle" = "Change";
+
+/* Class = "UILabel"; text = "APPROVAL"; ObjectID = "ipJ-UL-Ckf"; */
+"ipJ-UL-Ckf.text" = "APPROVAL";
+
+/* Class = "UILabel"; text = "OLAYA MEDICAL HOSPITAL"; ObjectID = "iqC-Rb-paL"; */
+"iqC-Rb-paL.text" = "OLAYA MEDICAL HOSPITAL";
+
+/* Class = "UILabel"; text = "B01/16/08/0016xxxx / 5798xxx"; ObjectID = "jEv-P4-p95"; */
+"jEv-P4-p95.text" = "B01/16/08/0016xxxx / 5798xxx";
+
+/* Class = "UILabel"; text = "00226539040700100000"; ObjectID = "kBZ-Zp-JEt"; */
+"kBZ-Zp-JEt.text" = "00226539040700100000";
+
+/* Class = "UIButton"; normalTitle = "Check Details"; ObjectID = "kiT-eA-SEJ"; */
+"kiT-eA-SEJ.normalTitle" = "Check Details";
+
+/* Class = "UILabel"; text = "ID Number"; ObjectID = "mQN-gr-r4j"; */
+"mQN-gr-r4j.text" = "ID Number";
+
+/* Class = "UILabel"; text = "ELIGIBLE"; ObjectID = "mcD-0U-6oo"; */
+"mcD-0U-6oo.text" = "ELIGIBLE";
+
+/* Class = "UILabel"; text = "Deductible"; ObjectID = "mvC-ea-PcU"; */
+"mvC-ea-PcU.text" = "Deductible";
+
+/* Class = "UIButton"; normalTitle = "By Approval Reference"; ObjectID = "n66-Tg-vy2"; */
+"n66-Tg-vy2.normalTitle" = "By Approval Reference";
+
+/* Class = "UILabel"; text = "Approval Inquiry"; ObjectID = "nM4-Z8-M3i"; */
+"nM4-Z8-M3i.text" = "Approval Inquiry";
+
+/* Class = "UILabel"; text = "Requesting . . ."; ObjectID = "nRB-kC-NCw"; */
+"nRB-kC-NCw.text" = "Requesting . . .";
+
+/* Class = "UILabel"; text = "OLAYA MEDICAL HOSPITAL"; ObjectID = "nWo-Fg-O1v"; */
+"nWo-Fg-O1v.text" = "OLAYA MEDICAL HOSPITAL";
+
+/* Class = "UILabel"; text = "Tawuniya\nالتعاونية"; ObjectID = "ogt-6c-fhX"; */
+"ogt-6c-fhX.text" = "Tawuniya\nالتعاونية";
+
+/* Class = "UIButton"; normalTitle = "Enter Insurance Card"; ObjectID = "pVD-Cx-CnG"; */
+"pVD-Cx-CnG.normalTitle" = "Enter Insurance Card";
+
+/* Class = "UILabel"; text = "OLAYA MEDICAL HOSPITAL"; ObjectID = "qEj-Dy-5LF"; */
+"qEj-Dy-5LF.text" = "OLAYA MEDICAL HOSPITAL";
+
+/* Class = "UILabel"; text = "STATUS"; ObjectID = "qK9-xN-l2U"; */
+"qK9-xN-l2U.text" = "STATUS";
+
+/* Class = "UIButton"; normalTitle = "Print"; ObjectID = "qXS-Ru-n4h"; */
+"qXS-Ru-n4h.normalTitle" = "Print";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "quK-Q6-ndw"; */
+"quK-Q6-ndw.normalTitle" = "No";
+
+/* Class = "UIButton"; normalTitle = "Print"; ObjectID = "rSK-7a-dPK"; */
+"rSK-7a-dPK.normalTitle" = "Print";
+
+/* Class = "UILabel"; text = "ID Number"; ObjectID = "rnT-ab-yjc"; */
+"rnT-ab-yjc.text" = "ID Number";
+
+/* Class = "UILabel"; text = "Type your approval reference and press Ok."; ObjectID = "sxI-Ea-buI"; */
+"sxI-Ea-buI.text" = "Type your approval reference and press Ok.";
+
+/* Class = "UILabel"; text = "Bring QR code infront of screen"; ObjectID = "tpp-aj-Wgj"; */
+"tpp-aj-Wgj.text" = "Bring QR code infront of screen";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "tzq-Z7-Jft"; */
+"tzq-Z7-Jft.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Print"; ObjectID = "uN3-Jd-m40"; */
+"uN3-Jd-m40.normalTitle" = "Print";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "uYm-ai-lnU"; */
+"uYm-ai-lnU.text" = "OR";
+
+/* Class = "UILabel"; text = "Ref:"; ObjectID = "w5L-Tg-mLb"; */
+"w5L-Tg-mLb.text" = "Ref:";
+
+/* Class = "UILabel"; text = "APPROVAL INQUIRY"; ObjectID = "wQ1-Jz-BjQ"; */
+"wQ1-Jz-BjQ.text" = "APPROVAL INQUIRY";
+
+/* Class = "UILabel"; text = "Mar 29, 2017"; ObjectID = "yhh-2o-WXN"; */
+"yhh-2o-WXN.text" = "Mar 29, 2017";
